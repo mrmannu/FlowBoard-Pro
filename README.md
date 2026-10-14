@@ -1,4 +1,12 @@
 # FlowBoard — Project Workspace
+## 🚀 Live Demo
+
+[View FlowBoard Pro](https://flow-board-pro.vercel.app/)
+
+## 🛠️ Tech Stack
+- React.js
+- Tailwind CSS
+- Vite
 
 A responsive project-management dashboard built with React, Vite, and Tailwind CSS v4. Designed as a portfolio project to demonstrate component composition, state management, filtering, forms, local persistence, and responsive UI.
 
